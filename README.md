@@ -1,4 +1,4 @@
-# Zerodha Clone - Trading Platform
+# FinEdge — Investment & portfolio tracker
 
 A full-stack trading platform inspired by Zerodha, featuring a marketing landing page and a comprehensive trading dashboard with real-time portfolio management.
 
